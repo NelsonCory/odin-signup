@@ -1,0 +1,11 @@
+.body{
+    margin:0px;
+}
+
+.sidebar {
+    background-color: red;
+}
+
+.content {
+    background-color: blue;
+}
